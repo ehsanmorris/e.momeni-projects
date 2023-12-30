@@ -6,6 +6,7 @@
     margin: 0;
     padding: 0;
     box-sizing: border-box;
+    color: #fff;
 }
 
 body {
@@ -15,7 +16,6 @@ body {
 
 a {
     text-decoration: none;
-    color: #fff;
 }
 
 ul,
@@ -117,6 +117,10 @@ img {
     gap: 50px;
 }
 
+.gap-20 {
+    gap: 100px;
+}
+
 /*///////////////////// FLEX AND GAP END ///////////////////// */
 
 
@@ -202,6 +206,26 @@ img {
     margin-top: 25px;
 }
 
+.mt-6 {
+    margin-top: 30px;
+}
+
+.mt-7 {
+    margin-top: 35px;
+}
+
+.mt-8 {
+    margin-top: 40px;
+}
+
+.mt-9 {
+    margin-top: 45px;
+}
+
+.mt-10 {
+    margin-top: 50px;
+}
+
 .mb-1 {
     margin-bottom: 5px;
 }
@@ -274,6 +298,33 @@ img {
 .my-5 {
     margin-top: 25px;
     margin-bottom: 25px;
+}
+
+.my-6 {
+    margin-top: 30px;
+    margin-bottom: 30px;
+}
+
+.my-7 {
+    margin-top: 35px;
+    margin-bottom: 35px;
+}
+
+.my-8 {
+    margin-top: 40px;
+    margin-bottom: 40px;
+
+}
+
+.my-9 {
+    margin-top: 45px;
+    margin-bottom: 45px;
+
+}
+
+.my-10 {
+    margin-top: 50px;
+    margin-bottom: 50px;
 }
 
 /*///////////////////// MARGIN END ///////////////////// */
