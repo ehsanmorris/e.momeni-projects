@@ -6,6 +6,10 @@
     box-sizing: border-box;
 }
 
+body {
+    font-size: 16px;
+}
+
 a {
     text-decoration: none;
 }
@@ -13,6 +17,41 @@ a {
 ul,
 ol {
     list-style: none;
+}
+
+img {
+    width: 100%;
+    height: 100%;
+}
+
+.flex {
+    display: flex;
+}
+.wrap{
+    flex-wrap: wrap;
+}
+.flex-col {
+    flex-direction: column;
+}
+
+.flex-bet {
+    justify-content: space-between;
+}
+
+.flex-cen {
+    justify-content: center;
+}
+
+.gap-10 {
+    gap: 10px;
+}
+
+.gap-15 {
+    gap: 15px;
+}
+
+.gap-20 {
+    gap: 20px;
 }
 
 .col-1 {
@@ -61,4 +100,18 @@ ol {
 
 .col-12 {
     width: 100%;
+}
+
+.pos-rel {
+    position: relative;
+}
+
+.pos-abs {
+    position: absolute;
+}
+
+.top-bar {
+    background-image: url(../images/HomePageBackground-30nama.jpg);
+    background-position: center bottom;
+    height: 100vh;
 }
