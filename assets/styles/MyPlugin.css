@@ -10,6 +10,7 @@
 
 body {
     font-size: 16px;
+    direction: rtl;
 }
 
 a {
@@ -27,9 +28,20 @@ img {
     height: 100%;
 }
 
+.d-ltr {
+    direction: ltr;
+}
 
 /*///////////////////// GLOBAL END ///////////////////// */
 
+
+/*///////////////////// FONT-STYLE START ///////////////////// */
+
+.bold {
+    font-weight: bold;
+}
+
+/*///////////////////// FONT_STYLE END ///////////////////// */
 
 /*///////////////////// FLEX AND GAP START ///////////////////// */
 
@@ -49,6 +61,10 @@ img {
     flex-direction: row-reverse;
 }
 
+.align {
+    align-items: center;
+}
+
 .flex-col {
     flex-direction: column;
 }
@@ -61,28 +77,44 @@ img {
     justify-content: center;
 }
 
-.gap-10 {
+.gap-1 {
+    gap: 5px;
+}
+
+.gap-2 {
     gap: 10px;
 }
 
-.gap-15 {
+.gap-3 {
     gap: 15px;
 }
 
-.gap-20 {
+.gap-4 {
     gap: 20px;
 }
 
-.gap-25 {
+.gap-5 {
     gap: 25px;
 }
 
-.gap-30 {
+.gap-6 {
     gap: 30px;
 }
 
-.gap-35 {
+.gap-7 {
     gap: 35px;
+}
+
+.gap-8 {
+    gap: 40px;
+}
+
+.gap-9 {
+    gap: 45px;
+}
+
+.gap-10 {
+    gap: 50px;
 }
 
 /*///////////////////// FLEX AND GAP END ///////////////////// */
