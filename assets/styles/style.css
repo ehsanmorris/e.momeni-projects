@@ -156,7 +156,7 @@ ol {
 
 .top-bar .title p a {
   color: rgba(255, 255, 255, 0.5);
-  border-bottom: 3px solid transparent;
+  border-bottom: 3px solid rgba(255, 255, 255, 0.1);
 }
 
 .top-bar .title p a:hover {
