@@ -26,6 +26,7 @@ h5,
 h6 {
   margin: 0;
   padding: 0;
+  font-family: "Abril Fatface", times, serif;
 }
 
 ul,
@@ -57,7 +58,6 @@ ol {
 }
 
 .top-bar .logo a {
-  font-family: "Abril Fatface", times, serif;
   color: #fff;
   font-weight: 700;
 }
@@ -130,7 +130,6 @@ ol {
 }
 
 .top-bar .title span a {
-  font-family: "Mukta Mahee", arial, sans-serif;
   color: #fff;
   letter-spacing: 3px;
   font-weight: 400;
@@ -169,7 +168,6 @@ ol {
 .top-bar .title h1 {
   font-size: 80px;
   margin: 0;
-  font-family: "Abril Fatface", times, serif;
 }
 
 .welcome {
@@ -190,7 +188,6 @@ ol {
 }
 
 .welcome h1 {
-  font-family: "Abril Fatface", times, serif;
   color: #000;
   font-weight: 100;
 }
@@ -266,7 +263,6 @@ ol {
 }
 
 .ads h3 {
-  font-family: "Abril Fatface", times, serif;
   color: #000;
   font-size: 25px;
 }
@@ -277,7 +273,6 @@ ol {
 
 .coc h2 {
   color: #000;
-  font-family: "Abril Fatface", times, serif;
   letter-spacing: 0.05em;
 }
 
