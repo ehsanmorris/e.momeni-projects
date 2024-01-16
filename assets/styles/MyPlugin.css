@@ -12,6 +12,7 @@
 body {
     font-size: 16px;
     direction: rtl;
+    background-color: #000;
 }
 
 a {
@@ -225,33 +226,43 @@ img {
 .mt-10 {
     margin-top: 50px;
 }
+
 .mt-11 {
     margin-top: 55px;
 }
+
 .mt-12 {
     margin-top: 60px;
 }
+
 .mt-13 {
     margin-top: 65px;
 }
+
 .mt-14 {
     margin-top: 70px;
 }
+
 .mt-15 {
     margin-top: 75px;
 }
+
 .mt-16 {
     margin-top: 80px;
 }
+
 .mt-17 {
     margin-top: 85px;
 }
+
 .mt-18 {
     margin-top: 90px;
 }
+
 .mt-19 {
     margin-top: 95px;
 }
+
 .mt-20 {
     margin-top: 100px;
 }
@@ -463,33 +474,43 @@ img {
 .pt-10 {
     padding-top: 50px;
 }
+
 .pt-11 {
     padding-top: 55px;
 }
+
 .pt-12 {
     padding-top: 60px;
 }
+
 .pt-13 {
     padding-top: 65px;
 }
+
 .pt-14 {
     padding-top: 70px;
 }
+
 .pt-15 {
     padding-top: 75px;
 }
+
 .pt-16 {
     padding-top: 80px;
 }
+
 .pt-17 {
     padding-top: 85px;
 }
+
 .pt-18 {
     padding-top: 90px;
 }
+
 .pt-19 {
     padding-top: 95px;
 }
+
 .pt-20 {
     padding-top: 100px;
 }
@@ -675,30 +696,39 @@ img {
 .b-full {
     border: 1px solid;
 }
+
 .b-t {
     border-top: 1px solid;
 }
+
 .b-b {
     border-bottom: 1px solid;
 }
+
 .b-r {
     border-right: 1px solid;
 }
+
 .b-l {
     border-left: 1px solid;
 }
+
 .radius-1 {
     border-radius: 5px;
 }
+
 .radius-2 {
     border-radius: 10px;
 }
+
 .radius-3 {
     border-radius: 15px;
 }
+
 .radius-4 {
     border-radius: 20px;
 }
+
 /*///////////////////// BORDER AND RADUIS END ////////////////////// */
 
 
@@ -710,6 +740,10 @@ img {
 
 .pos-abs {
     position: absolute;
+}
+
+.fixed {
+    position: fixed;
 }
 
 /*///////////////////// POSITION END ///////////////////// */
